@@ -1,11 +1,9 @@
-package com.example.springdatajpa.service.article.impl;
+package com.example.springdatajpa.service.article;
 
 import com.example.springdatajpa.domain.Article;
 import com.example.springdatajpa.domain.dto.ArticleDTO;
 import com.example.springdatajpa.repository.ArticleRepository;
 import com.example.springdatajpa.repository.dto.ArticleDTORepository;
-import com.example.springdatajpa.service.article.ArticleService;
-import com.example.springdatajpa.service.article.condition.ArticleConditionSpec;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.data.domain.Page;

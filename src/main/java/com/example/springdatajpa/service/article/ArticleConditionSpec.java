@@ -1,4 +1,4 @@
-package com.example.springdatajpa.service.article.condition;
+package com.example.springdatajpa.service.article;
 
 import com.example.springdatajpa.domain.Article;
 import com.example.springdatajpa.domain.dto.ArticleDTO;
